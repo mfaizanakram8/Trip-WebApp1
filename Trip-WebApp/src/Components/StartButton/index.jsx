@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './StartButton.css'; // Import styles for button
 
 const StartButton = ({ onClick }) => {

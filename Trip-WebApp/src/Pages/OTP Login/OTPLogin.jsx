@@ -22,7 +22,7 @@ const OTPLogin = () => {
 
                     <OTPInput length={4} />
                     <div className='buttonContainer'>
-                        <Button text="Log In" className='log-button'  />
+                        <Button text="Log In" className='log-button'   />
                     </div>
                     <p className='resendText'>
                         Didn’t receive OTP? <span className='resendLink'>Resend</span>
