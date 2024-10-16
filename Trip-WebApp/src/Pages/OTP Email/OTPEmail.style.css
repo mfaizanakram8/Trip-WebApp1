@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.countdownText {
+    font-size: 22px;
+    color: #a1a1aa;
+  }
+
+  .resendSms {
+    margin-top: 10px;
+  }
+  
+  .resendSmsLink {
+    color: #6b46c1;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+ 

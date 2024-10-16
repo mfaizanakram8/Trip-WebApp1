@@ -1,0 +1,30 @@
+.tag {
+    display: inline-flex;
+    align-items: center;
+   
+    
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+  
+  .tag-text {
+    margin-right: 10px;
+  }
+  
+  .remove-tag-button {
+    background: none;
+    border: none;
+    background-color: blueviolet;
+    color: purple;
+    cursor: pointer;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 1;
+    z-index: 10;
+    position: absolute;
+    top: -11px;
+    margin-left: 90px;
+   
+  }
+  

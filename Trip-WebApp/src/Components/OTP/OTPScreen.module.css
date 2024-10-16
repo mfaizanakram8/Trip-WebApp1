@@ -1,0 +1,115 @@
+.main {
+    padding: 40px 60px 40px 60px;
+  
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .logo {
+    font-family: 'Figtree', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: left;
+  }
+  
+  .header {
+    margin-bottom: 20px;
+  }
+  
+  .backButton {
+    font-size: 20px;
+    color: #6a3ace;
+    cursor: pointer;
+  }
+  
+  .vector {
+    float: left;
+    margin: 6px 10px 0px 0px;
+  }
+  
+  .title {
+    font-size: 24px;
+    color: #7346d2;
+    margin: 10px 0;
+    font-family: "Figtree", sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 57.55px;
+  }
+  
+  .subtitle {
+    width: 30%;
+    color: #6F6F6F;
+    font-family: "Figtree", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 33.6px;
+    text-align: center;
+  }
+  
+  .otpContainer {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+  
+  }
+  
+  .items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: "20px 0px ";
+  
+  }
+  
+  .button {
+    width: 27%;
+    padding: 16px;
+    background-color: #6a3ace;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 999px;
+    margin: 10px 0px 10px 0px;
+  }
+  
+  .resendText {
+    margin-top: 10px;
+    font-family: "Figtree", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 33.6px;
+    text-align: left;
+    color: #6F6F6F;
+  }
+  
+  .resendLink {
+    font-family: "Figtree", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 33.6px;
+    text-align: left;
+    font-weight: 700;
+    color: #6F6F6F;
+  }
+  
+  .email {
+    font-family: "Figtree", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 33.6px;
+    text-align: left;
+    font-weight: 700;
+    color: #6F6F6F;
+  }
